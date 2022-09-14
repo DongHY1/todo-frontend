@@ -27,7 +27,7 @@ export default function InputTodo() {
             setDesc(e.target.value);
           }}
         />
-        <button>Add!</button>
+        <button>Add</button>
       </form>
     </div>
   );
